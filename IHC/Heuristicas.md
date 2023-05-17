@@ -8,6 +8,10 @@ O design deve sempre manter os usuários informados sobre o que está acontecend
 - Apresente feedback ao usuário o mais rápido possível.
 - Construa confiança através de uma comunicação aberta e contínua.
 
+| Exemplo                                          | Descrição                                                                                       |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| `printf("Hello, world!");`                        | Imprime a mensagem "Hello, world!" no console.                                                  |
+| `int x = 5;`                                       | Declara uma variável inteira chamada "x" e atribui o valor 5.                                    |   |
 
 ## Nº 2: Correspondência entre o sistema e o mundo real
 
