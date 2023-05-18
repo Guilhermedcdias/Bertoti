@@ -8,10 +8,8 @@ O design deve sempre manter os usuários informados sobre o que está acontecend
 - Apresente feedback ao usuário o mais rápido possível.
 - Construa confiança através de uma comunicação aberta e contínua.
 
-| Exemplo                                          | Descrição                                                                                       |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| `printf("Hello, world!");`                        | Imprime a mensagem "Hello, world!" no console.                                                  |
-| `int x = 5;`                                       | Declara uma variável inteira chamada "x" e atribui o valor 5.                                    |   |
+Exemplo Errado: Neste exemplo temos o sistema de gestão acadêmica utilizado pela fatec, nele quando uma ou as duas informações estão erradas, temos o mesmo aviso, sem destaque algum..
+Exemplo Correto: Neste exemplo apenas um dos campos está errado, assim como o exemplo errado, mas neste caso, a mensagem de erro é clara e especifica, assim como a heurística diz.
 
 ## Nº 2: Correspondência entre o sistema e o mundo real
 
@@ -20,6 +18,9 @@ O design deve falar a linguagem dos usuários, usando termos, frases e conceitos
 - Use palavras, conceitos e imagens que sejam compreensíveis para os usuários.
 - Siga as convenções do mundo real e apresente as informações de forma lógica.
 
+Exemplo Errado: Este é o Pay.me, um sistema desenvolvido para a API do 3º Semestre de desenvolvimento de sistemas. Nele vemos que não existe correspondência entre o ícones e o que eles realmente fazem no sistema, qual a função deles.
+
+Exemplo Correto: Como exemplo, temos o Visual Studio Code, conhecido como VSCode, que é um editor de código-fonte. No VSCode, os ícones têm uma relação direta com suas funcionalidades. Por exemplo, se clicarmos no ícone do canto inferior esquerdo, representado por um personagem, será exibido um menu de contas. Dessa forma, os ícones no VSCode são intuitivos e permitem aos usuários acessar facilmente as diversas funcionalidades do editor.
 
 ## Nº 3: Controle e liberdade do usuário
 
