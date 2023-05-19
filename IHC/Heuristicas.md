@@ -240,7 +240,18 @@ Reduza a carga de memória do usuário tornando informações e ações visívei
 - Use tratamentos visuais para chamar a atenção dos usuários.
 - Sugira soluções construtivas para os erros.
 
+<br>
+<br>
 
+> Neste exemplo vemos uma mensagem de erro totalmente generica, ja que nem input de senha vemos no site, ou seja, zero clareza
+<div>
+  
+  ![Erro de senha gov br](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/7e167399-2821-4885-9213-9d868ee6f67e)
+    
+</div>
+
+<br>
+<br>
 
 ## Nº 10: Ajuda e documentação
 
@@ -248,4 +259,14 @@ Reduza a carga de memória do usuário tornando informações e ações visívei
 - A documentação deve ser fácil de pesquisar e focada nas tarefas dos usuários.
 - Forneça etapas concretas para os usuários seguirem.
 
+<br>
+<br>
+
+>Neste exemplo vemos a documentação da IUGU, uma empresa focada nos pagamentos, nela temos como usar todas as funções do site e da api deles.
+
+<div>
+  
+![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/0b90b638-55b5-464f-8ceb-d737ec56c867)
+  
+</div>
 
