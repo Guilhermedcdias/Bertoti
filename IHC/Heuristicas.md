@@ -224,6 +224,7 @@ Reduza a carga de memória do usuário tornando informações e ações visívei
 <br>
 <br>
 
+> Como exemplo bom desta heuristica temos o trello que tem uma interface totalmente focada no seu objetivo, organização.
 <div> 
   
   ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/b0a25ed2-871e-4eb1-894c-d20c85f31bb0)
