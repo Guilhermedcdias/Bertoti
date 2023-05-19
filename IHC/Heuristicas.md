@@ -80,6 +80,31 @@ Os usuários devem ter controle sobre o sistema e a liberdade para desfazer aç�
 - Forneça uma "saída de emergência" claramente marcada para desfazer ações.
 - Permita que os usuários cancelem interações indesejadas.
 
+<br>
+<br>
+
+> Neste exemplo vemos a caixa de rascunho do goole, nela temos os emails que o usuario por algum motivo não enviou, ou seja ele teve total controle do sistema para parar de enviar o email e o sistema guardou isso para ele fazendo com que não haja perda de dados.
+<div> 
+
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/c1c08965-b70f-4eda-91e1-67d1d46151cf)
+
+  
+</div>
+
+  <br>
+<br>
+
+> Neste exemplo vemos um carrinho de compras na qual a pessoa pode finalizar a compra a qualquer momento, se ela quiser ela pode excluir produtos e adicionar mais unidades deles, ou seja o usuario tem total controle de tudo que acontece. Se ele quiser cancelar ele tem uma saida de emergencia.
+
+<div>
+
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/b99299ef-6e66-49f8-b0e4-dbb1c8854a6a)
+
+  
+</div>
+<br>
+<br>
+
 
 ## Nº 4: Consistência e padrões
 
@@ -88,6 +113,36 @@ O design deve seguir as convenções e padrões do sistema e do setor, para que 
 - Mantenha a consistência dentro do produto ou família de produtos.
 - Siga as convenções estabelecidas pela indústria.
 
+<br>
+<br>
+
+
+> Como exemplo podemos ver a grande maioria dos sites de ecommerce seguem um padrão em cima temos um menu com as sessões do site, do lado direito temos o  login no meio da navbar temos um barra de pesquisa e na esqueda a logo do site.
+
+<div>
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/12336475-d879-42a0-a459-8bc71472d1eb)
+
+  <br>
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/23944192-fcf8-4a49-8985-44723afd6460)
+
+  <br>
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/a3e69488-7c4a-47e7-912d-e57e697ee49b)
+
+  <br>
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/a81a115a-eca1-42d8-9588-2c2bc1cfd740)
+
+  <br>
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/195695c1-7b61-4ce3-933b-7899138d1da1)
+
+</div>
+
+<br>
+<br>
 
 ## Nº 5: Prevenção de erros
 
@@ -95,6 +150,20 @@ Evite que erros aconteçam em primeiro lugar, eliminando condições propensas a
 
 - Elimine condições propensas a erros.
 - Forneça opções de confirmação antes de ações irreversíveis.
+
+<br>
+<br>
+
+> Como exemplo de prevenção de erros podemos citar os avisos do windows para quase tudo, como por exemplo, instalar um programa ou limpar os itens da lixeira.
+
+<div>
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/d4664506-3d80-4550-9084-a9801d8ac683)
+  
+</div>
+
+<br>
+<br>
 
 
 ## Nº 6: Reconhecimento em vez de lembrança
