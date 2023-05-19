@@ -173,6 +173,20 @@ Reduza a carga de memória do usuário tornando informações e ações visívei
 - Torne as informações necessárias visíveis ou facilmente recuperáveis.
 - Permita o reconhecimento das informações, em vez de exigir lembrança.
 
+
+<br>
+<br>
+
+> Um aplicativo de música possui uma interface com ícones e rótulos claros para as funções comuns, como reproduzir, pausar, avançar e retroceder. Os usuários podem facilmente reconhecer esses ícones e saber como usá-los, sem a necessidade de lembrar de comandos específicos ou símbolos complexos.
+<div>
+  
+  ![Imagem do WhatsApp de 2023-05-19 à(s) 09 11 32](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/c28c3a90-7ed6-4fcf-8959-b8fe4c66e2ef)
+  
+</div>
+
+<br>
+<br>
+
 ---
 
 ## Nº 7: Flexibilidade e eficiência de uso
@@ -181,6 +195,15 @@ Reduza a carga de memória do usuário tornando informações e ações visívei
 - Permita que os usuários personalizem ações frequentes.
 - Processos flexíveis oferecem diferentes opções aos usuários.
 
+<br>
+<br>
+
+> Como exemplo disso podemos ver a pagina de configuração de atalhos do vscode, ou a do OBS Studio, onde podemos até definir sequecias de tarefas a partir de um atalho especifico.
+<div>
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/0398dd26-6108-4124-9514-23cd1fd087e4)
+
+</div>
 
 ## Nº 8: Design estético e minimalista
 
@@ -188,6 +211,27 @@ Reduza a carga de memória do usuário tornando informações e ações visívei
 - Mantenha o design visual focado no essencial.
 - Apoie os objetivos principais do usuário.
 
+<br>
+<br>
+
+> Como exemplo podemos citar a SHEIN, que tem muita informação e não é focada..
+<div>
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/beb49f39-65a4-4b06-81cb-7e835e1c9466)
+  
+</div>
+
+<br>
+<br>
+
+<div> 
+  
+  ![image](https://github.com/Guilhermedcdias/Bertoti/assets/79495727/b0a25ed2-871e-4eb1-894c-d20c85f31bb0)
+
+</div>
+
+<br>
+<br>
 
 ## Nº 9: Ajuda aos usuários para reconhecer, diagnosticar e recuperar-se de erros
 
